@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-date-solution
+<br>
+Open the Date SolutionDate Solution.sln file. The interface provides a text box for entering the date, The displayButton_Click procedure should verify that the date was entered in the correct format, which is two numbers followed by a slash, two numbers, a slash, and two numbers. If the date was entered in the correct format, the procedure should change the year number from <em>yy</em> to <em>20yy</em> before displaying the date in the dateLabel. Save the solution and then start the application. Click the Exit button and then close the solution<span class="ql-cursor"></span>
